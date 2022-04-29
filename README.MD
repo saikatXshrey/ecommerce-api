@@ -18,10 +18,10 @@
 
 #### Basic Routes and Middleware
 
-- [] setup / GET Route
-- [] setup express.json() middleware
-- [] setup 404 and errorHandler middleware
-- [] import 'exress-async-errors' package
+- [✔] setup / GET Route
+- [✔] setup express.json() middleware
+- [✔] setup 404 and errorHandler middleware
+- [✔] import 'exress-async-errors' package
 
 #### 404 vs ErrorHandler Middleware
 
