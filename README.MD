@@ -31,9 +31,9 @@
 
 #### User Model
 
-- [] create models folder and User.js file
-- [] create schema with name,email, password (all type:String)
-- [] export mongoose model
+- [✔] create models folder and User.js file
+- [✔] create schema with name,email, password (all type:String)
+- [✔] export mongoose model
 
 #### Validator Package
 
